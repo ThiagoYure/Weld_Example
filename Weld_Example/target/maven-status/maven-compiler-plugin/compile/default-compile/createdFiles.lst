@@ -3,7 +3,5 @@ com\mycompany\weld_example\Dao.class
 com\mycompany\weld_example\FrontController.class
 com\mycompany\weld_example\Command.class
 com\mycompany\weld_example\UsuarioDao.class
-com\mycompany\weld_example\FactoryDao.class
 com\mycompany\weld_example\CadastroController.class
 com\mycompany\exemplo_weld\ConFactory.class
-com\mycompany\weld_example\FactoryUsuario.class

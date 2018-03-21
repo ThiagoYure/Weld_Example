@@ -14,8 +14,8 @@ import javax.inject.Named;
  *
  * @author ThigoYure
  */
-@Named@ViewScoped
-class Usuario implements Serializable{
+@Named
+class Usuario{
     private String email;
     private String senha;
     private String nome;

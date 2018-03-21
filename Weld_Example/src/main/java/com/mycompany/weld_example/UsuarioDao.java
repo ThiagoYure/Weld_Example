@@ -20,8 +20,8 @@ import javax.inject.Named;
  *
  * @author ThigoYure
  */
-@Named@ViewScoped
-class UsuarioDao implements Dao,Serializable{
+@Named
+class UsuarioDao implements Dao{
     @Inject Connection con;
 
     public UsuarioDao() {
